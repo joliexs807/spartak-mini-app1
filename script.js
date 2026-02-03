@@ -93,6 +93,7 @@ function renderLeaderboard() {
   });
 }
 
+// Admin modal
 const modal = document.createElement("div");
 modal.id="adminModal";
 modal.style.display="none";
